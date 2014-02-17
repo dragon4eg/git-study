@@ -1,4 +1,4 @@
 cpp-study
 =========
 
-C++ OOP
+This repo holds stuff in C++ OOP.
