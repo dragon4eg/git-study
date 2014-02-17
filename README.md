@@ -1,4 +1,4 @@
 cpp-study
 =========
-git fucks brain!!
+git fucks brain!!but somehow it starts to look useful
 This repo holds stuff in C++ OOP.
