@@ -1,4 +1,4 @@
-cpp-study
+git-study
 =========
 <<<<<<< HEAD
 git fucks brain!!but somehow it starts to look useful and i get how to use it
